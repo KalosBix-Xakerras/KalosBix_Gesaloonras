@@ -2,7 +2,7 @@
 
 カロス語(Kalos Language)(暫定呼称)はTwitterユーザKalos( [@Puomiaviq](https://twitter.com/Puomiaviq) )がTwitter上で用いている未解読言語である。
 
-この言語を解読するために発足したのが「[Kalos カロス語解析特別プロジェクト](https://discord.gg/u5RtjSKQa3)」であり、そのために設けられたGitHub Orgが「[KalosBix-Xakerras](https://github.com/KalosBix-Xakerras)」である。その筆頭レポジトリである本レポジトリ「**KalosLang_Analysis**」は中核的な解析を担う。本レポジトリJuliaを中心としてRなどで実装される。
+この言語を解読するために発足したのが「[Kalos カロス語解析特別プロジェクト](https://discord.gg/u5RtjSKQa3)」であり、そのために設けられたGitHub Orgが「[KalosBix-Xakerras](https://github.com/KalosBix-Xakerras)」である。その筆頭レポジトリである本レポジトリ「**KalosBix_Gesaloonras**」は中核的な解析を担う。本レポジトリJuliaを中心としてRなどで実装される。
 
 ## 経緯
 
