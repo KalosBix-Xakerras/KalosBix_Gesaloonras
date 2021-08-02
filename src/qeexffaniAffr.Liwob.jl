@@ -1,5 +1,5 @@
 
-function relaIO(fileNameTw,fileNameLuuk,fileNameOut)
+function ocpter(fileNameTw,fileNameLuuk,fileNameOut)
   fTw = open(fileNameTw,"r")
   dataTw = readLines(fTw)
   close(fTw)
@@ -11,5 +11,5 @@ function relaIO(fileNameTw,fileNameLuuk,fileNameOut)
   write(fOut,outData)
   close(fOut)
 end
-function linker(tweets,luuks)
+function liwob(tweets,luuks)
 end
